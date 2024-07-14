@@ -1,0 +1,1 @@
+This landing page is exercise project from The Odin Project made by just HTML, and CSS 
